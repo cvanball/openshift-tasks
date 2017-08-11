@@ -61,11 +61,11 @@
     <distributionManagement>
         <repository>
             <id>nexus</id>
-            <url>http://nexus3.nexus.svc:8081/repositories/releases</url>
+            <url>http://nexus3.nexus.svc:8081/components/repositories/releases</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
-            <url>http://nexus3.nexus.svc:8081/repositories/snapshots</url>
+            <url>http://nexus3.nexus.svc:8081/components/repositories/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 
